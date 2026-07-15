@@ -1,0 +1,21 @@
+# Generated local review artifacts
+_inventory/
+
+# Editor temporary files
+*.swp
+*.swo
+
+# Upstream suites cloned for review/reference; selected tests should be copied
+# into repo-owned paths before tracking.
+cineca-reframe/
+cscs-reframe-tests/
+eessi-test-suite/
+epcc-reframe/
+excalibur-tests/
+hpc2n-reframe-tests/
+ksl_postmaint_tests/
+pawsey-reframe-mpi-stress-tests/
+ska-sdp-benchmark-tests/
+stackhpc-hpc-tests/
+uschpc-reframe-tests/
+vub-hpc-reframe-tests/
